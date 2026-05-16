@@ -23,3 +23,13 @@ Live API --> Bronze --> Silver --> Gold --> Dashboard
 - Delta Lake
 - Open-Meteo API
 - GitHub
+
+
+## How to Run
+
+1. Create Databricks 
+2. Upload stores.csv
+3. Run bronze ingestion notebook
+4. Run silver transformation notebook
+5. Run gold analytics notebook
+6. Execute dashboard queries
