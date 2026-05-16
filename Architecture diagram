@@ -14,3 +14,12 @@ Live API --> Bronze --> Silver --> Gold --> Dashboard
 - SQL analytics
 - Dashboard creation
 - Scheduled Databricks jobs
+
+## Tech Stack
+
+- Databricks
+- PySpark
+- SQL
+- Delta Lake
+- Open-Meteo API
+- GitHub
