@@ -1,0 +1,16 @@
+## Architecture diagram
+
+Batch CSV --> Bronze --> Silver --> Gold --> Dashboard
+Live API --> Bronze --> Silver --> Gold --> Dashboard
+
+
+## Features
+
+- Real-time API ingestion
+- Batch data ingestion
+- Bronze/Silver/Gold architecture
+- Delta tables
+- Data cleansing and transformations
+- SQL analytics
+- Dashboard creation
+- Scheduled Databricks jobs
